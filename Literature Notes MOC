@@ -1,6 +1,34 @@
 Literature Notes MOC
 
 
+
+---
+
+```meta-bind-button
+label: New Zotero Note
+icon: ""
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: ""
+hidden: false
+actions:
+  - type: templaterCreateNote
+    templateFile: 6. Extras/Templates/Template, Zotero Note.md
+    folderPath: 4. Literature Notes
+    fileName: ""
+    openNote: true
+    openIfAlreadyExists: false
+
+```
+
+---
+## Template
+- [[Template, Zotero Note]]
+
+---
 ```dataview  
 TABLE 
 title AS Title,  
@@ -12,3 +40,6 @@ Contribution AS Contribution
 FROM "4. Literature Notes" 
 
 ```
+
+
+
