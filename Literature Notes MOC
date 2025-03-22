@@ -1,0 +1,14 @@
+Literature Notes MOC
+
+
+```dataview  
+TABLE 
+title AS Title,  
+authors[0] AS "First Author",  
+year AS Year,  
+itemType AS "Item Type",  
+citekey AS Citekey,  
+Contribution AS Contribution  
+FROM "4. Literature Notes" 
+
+```
