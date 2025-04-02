@@ -1,12 +1,13 @@
 # Obsidian
 
-community plugibs used:
+Community Plugins Used:
+
 Dataview
 Meta Bind
 Templater
 Admonition
 Pandoc Plugin
-Pandoc Refrence List
+Pandoc Reference List
 Zotero Integration
 Paste URL into Selection
 Map View
